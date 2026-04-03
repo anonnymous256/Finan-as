@@ -40,6 +40,8 @@ dev_dependencies:
     sdk: flutter
   firebase_core: ^2.30.0
   cloud_firestore: ^4.17.0
+  fl_chart: ^0.68.0  
+  intl: ^0.18.1     
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is

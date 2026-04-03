@@ -6,6 +6,7 @@ import 'Telas/Inicio.dart';
 import 'firebase_options.dart';
 import 'Telas/Cartoes.dart';
 import 'Telas/Outros.dart';
+import 'Telas/Dasboard.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
